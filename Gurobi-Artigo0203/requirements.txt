@@ -1,0 +1,6 @@
+# Manipulação de dados e operações matriciais
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Solver de Otimização (Gurobi)
+gurobipy==12.0.3
