@@ -1,1 +1,1 @@
-Trabalho em andamento da Iniciação Científica.
+Trabalho de Iniciação Científica em andamento.
